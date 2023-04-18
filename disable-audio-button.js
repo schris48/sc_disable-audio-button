@@ -1,1 +1,0 @@
-player.controlBar.audioTrackButton.disable();

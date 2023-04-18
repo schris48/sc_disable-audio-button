@@ -1,0 +1,10 @@
+.vjs-audio-button{
+  pointer-events: none;
+  user-select: none;
+}
+
+/* Size the player */
+.video-js {
+  width: 640px;
+  height: 360px;
+}
