@@ -1,6 +1,7 @@
 .vjs-audio-button{
   pointer-events: none;
   user-select: none;
+  visibility: hidden;
 }
 
 /* Size the player */
